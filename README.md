@@ -42,9 +42,9 @@ char emailPassword[] = "your_email_password"; // Sender's Gmail password
 
 3. Set the Path for Auto-Start: Change the following exePath value to the path of your application executable:
 
-`
+```
 const char *exePath = "C:\\path\\to\\your\\executable.exe";
-`
+```
 # Usage
 
 1. Start the application.
