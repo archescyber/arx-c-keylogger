@@ -42,4 +42,27 @@ char emailPassword[] = "your_email_password"; // Sender's Gmail password
 
 3. Set the Path for Auto-Start: Change the following exePath value to the path of your application executable:
 
-`const char *exePath = "C:\\path\\to\\your\\executable.exe";`
+`
+const char *exePath = "C:\\path\\to\\your\\executable.exe";
+`
+# Usage
+
+1. Start the application.
+
+
+2. The application will begin logging keystrokes and taking screenshots.
+
+
+3. Logs will be sent via email at regular intervals (every 300 seconds).
+
+
+4. The logged data will be deleted from the target system after being sent to the attacker.
+
+
+
+# Notes
+
+The misuse of this software is illegal. Please only use it on systems where you have permission and for ethical purposes.
+
+To send emails via Gmail, you must enable the "Allow less secure apps" setting for your application.
+
