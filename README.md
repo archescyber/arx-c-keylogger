@@ -1,6 +1,7 @@
 # Arx C KeyLogger
 
-This project is a keylogger application for the Windows operating system that logs keystrokes and sends the recorded data via email. It also takes screenshots and logs clipboard data.
+- This project is a keylogger application for the Windows operating system that logs keystrokes and sends the recorded data via email. 
+- It also takes screenshots and logs clipboard data.
 
 ## Features
 
