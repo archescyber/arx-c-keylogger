@@ -50,7 +50,6 @@ const char *exePath = "C:\\path\\to\\your\\executable.exe";
 
 1. Start the application.
 
-
 2. The application will begin logging keystrokes and taking screenshots.
 
 
