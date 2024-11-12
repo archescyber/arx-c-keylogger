@@ -68,5 +68,3 @@ To send emails via Gmail, you must enable the "Allow less secure apps" setting f
 ## Contribution
 
 Feel free to contribute to the project by submitting issues or pull requests. All contributions are welcome!
-
-For communication, you can send feedback to my Instagram account named **@yusuf.cyw**
